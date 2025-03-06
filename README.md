@@ -1,1 +1,1 @@
-# azure_osr
+# azure_osr Terraform Cloud
